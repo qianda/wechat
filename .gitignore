@@ -1,7 +1,7 @@
 *.DS_Store
 /vendor
 sftp-config.json
-/*.php
+
 /.idea
 /coverage
 /.split
