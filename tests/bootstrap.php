@@ -2,7 +2,7 @@
 
 /*
  * This file is part of the overtrue/wechat.
- *
+ * 123qianda cwsh
  * (c) overtrue <i@overtrue.me>
  *
  * This source file is subject to the MIT license that is bundled
